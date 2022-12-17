@@ -2,3 +2,6 @@
 int main() {
 	return 0;
 }
+int afd() {
+	return 0;
+}
